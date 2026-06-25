@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+
+# Python Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# CSV datasets
+*.csv
+
+# Audio datasets
+*.wav
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.keras
+*.pt
+*.pth
+
+# NumPy files
+*.npy
+*.npz
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
